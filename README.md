@@ -4,8 +4,6 @@
 
 ### Contents:
 
-Basic text preprocessing and keyword search.
+#### Basic text preprocessing and keyword search
 
-Please download the entire repository to prevent dataset path issues,
-
-despite the effort, I put in to avoid the issues.
+Please download the entire repository to prevent dataset path issues, despite the effort, I put in to avoid the issues.
