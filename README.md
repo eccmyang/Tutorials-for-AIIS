@@ -1,6 +1,6 @@
 # Summer tutorial projects for AIIS Lab
 
-## Data: 2023-08-07
+## Date: 2023-08-07
 
 ### Contents:
 
